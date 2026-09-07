@@ -1,2 +1,2 @@
 # belajar-github
-belajar bareng bareng github bersama piyo academy (perubahan)
+belajar bareng bareng github bersama piyo academy (perubahan) (perubahan git pull)
